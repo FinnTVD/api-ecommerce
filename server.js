@@ -62,12 +62,6 @@ router.render = (req, res) => {
 		pagination: { totalCounts: res.locals.data.length },
 	});
 };
-server.use(
-	jsonServer.rewriter({
-		"/api/*": "/$1",
-		"/blog/:resource/:id/show": "/:resource/:id",
-	})
-);
 
 // Use default router
 server.use("/api", router);
