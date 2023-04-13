@@ -2,7 +2,7 @@
 	"name": "api-ecommerce",
 	"version": "1.0.0",
 	"description": "",
-	"main": "server.js",
+	"main": "api/server.js",
 	"dependencies": {
 		"json-server": "^0.17.3",
 		"query-string": "^8.1.0"
@@ -12,8 +12,7 @@
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"dev": "nodemon server.js",
-		"start": "node server.js"
+		"start": "node api/server.js"
 	},
 	"keywords": [],
 	"type": "module",
