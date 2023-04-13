@@ -8,9 +8,6 @@ const middlewares = jsonServer.defaults();
 server.use(middlewares);
 
 // Add custom routes before JSON Server router
-// server.get("/echo", (req, res) => {
-// 	res.jsonp(req.query);
-// });
 
 // To handle POST, PUT and PATCH you need to use a body-parser
 // You can use the one used by JSON Server
@@ -31,7 +28,6 @@ router.render = (req, res) => {
 	const path = req._parsedUrl.pathname.slice(1);
 	const totalCounts = headers["x-total-count"]?.__wrapped__[path]?.length;
 	const queryParams = queryString.parse(req._parsedUrl?.query);
-	console.log("🚀 ~ file: server.js:34 ~ queryParams:", queryParams);
 	if (req.method === "GET" && queryParams._limit && queryParams._page) {
 		if (queryParams.category) {
 			const result = {
@@ -70,5 +66,6 @@ router.render = (req, res) => {
 // Use default router
 server.use("/api", router);
 server.listen(4001, () => {
-	console.log("JSON Server is running");
+	console.log("JSON Server is running", 4001);
 });
+module.exports = server;
