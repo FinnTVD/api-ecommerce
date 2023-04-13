@@ -1,0 +1,25 @@
+GET http://localhost:4001/api/shoppingCart
+
+###
+GET http://localhost:4001/api/listProduct?_page=1&_limit=5
+
+###
+GET http://localhost:4001/api/shoppingCart?_page=1&_limit=5
+
+###
+GET http://localhost:4001/api/listProduct
+###
+GET http://localhost:4001/api/listProduct?_page=1&_limit=10&category=sound
+
+###
+
+POST http://localhost:4001/api/shoppingCart 
+Content-type:application/json
+
+{
+    "name":"duc"
+}
+
+###
+
+DELETE http://localhost:4001/api/shoppingCart/2

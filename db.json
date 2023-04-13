@@ -1,0 +1,660 @@
+{
+  "listProduct": [
+    {
+      "id": 1,
+      "name": "Xiaomi 12T",
+      "listPrice": 12490000,
+      "category": "smartphone",
+      "sale": {
+        "salePercent": "13%",
+        "salePrice": 10890000
+      },
+      "description": {
+        "status": "Mới, đầy đủ phụ kiện từ nhà sản xuất",
+        "gift": "Xiaomi 12T, Củ sạc, Cáp sạc, Ốp lưng trong, Miếng dán màn hình",
+        "guarantee": "Bảo hành 24 tháng tại trung tâm bảo hành Chính hãng. 1 đổi 1 trong 30 ngày nếu có lỗi phần cứng từ nhà sản xuất."
+      },
+      "promote": [],
+      "avatar": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/x/i/xiaomi-12t-den_3_1.jpg",
+      "option": [
+        {
+          "color": "Đen",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/x/i/xiaomi-12t-den_3_1.jpg"
+        },
+        {
+          "color": "Bạc",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/x/i/xiaomi-12t-xam_1_1.jpg"
+        },
+        {
+          "color": "Xanh dương",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/x/i/xiaomi-12t-xanh_3.jpg"
+        }
+      ],
+      "rating": {
+        "rate": 4.9,
+        "review": 15
+      }
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy A23",
+      "listPrice": 5690000,
+      "category": "smartphone",
+      "sale": {
+        "salePercent": 12,
+        "salePrice": 4990000
+      },
+      "description": {
+        "status": "Mới, đầy đủ phụ kiện từ nhà sản xuất",
+        "gift": "Máy, Sách hướng dẫn, Cây lấy sim, Cáp Type C, Củ sạc nhanh rời đầu Type A",
+        "guarantee": "Bảo hành chính hãng 12 tháng tại trung tâm bảo hành ủy quyền, 1 đổi 1 trong 30 ngày nếu có lỗi phần cứng từ NSX."
+      },
+      "promote": [],
+      "avatar": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/s/a/samsung-galaxy-a23-cam-thumb-600x600.jpg",
+      "option": [
+        {
+          "color": "Cam",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/s/a/samsung-galaxy-a23-cam-thumb-600x600.jpg"
+        },
+        {
+          "color": "Đen",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/s/a/samsung-galaxy-a23-den-122_1.jpg"
+        },
+        {
+          "color": "Xanh dương",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/d/i/din-thoi-samsung-galaxy-a23-a235f-5g-blue-dm_a5be6dfe.jpg"
+        }
+      ],
+      "rating": {
+        "rate": 4.5,
+        "review": 2
+      }
+    },
+    {
+      "id": 3,
+      "name": "OPPO Reno8 T 5G (8GB - 128GB)",
+      "listPrice": 9900000,
+      "category": "smartphone",
+      "sale": {
+        "salePercent": 0,
+        "salePrice": 0
+      },
+      "description": {
+        "status": "Mới, đầy đủ phụ kiện từ nhà sản xuất",
+        "gift": "",
+        "guarantee": "Bảo hành 12 tháng tại trung tâm bảo hành Chính hãng. 1 đổi 1 trong 30 ngày nếu có lỗi phần cứng từ nhà sản xuất."
+      },
+      "avatar": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/o/p/oppo-reno8t-vang1-thumb-600x600.jpg",
+      "promote": [
+        "Tặng thêm dịch vụ bảo hành Vip 12 tháng 1 đổi 1",
+        "Tặng tai nghe Bluetooth Oppo Enco Buds W12 Trắng"
+      ],
+      "option": [
+        {
+          "color": "Vàng",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/h/i/hinh-anh-render-cua-oppo-reno-8t-5g-153957651_1.jpg"
+        },
+        {
+          "color": "Đen",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/t/_/t_i_xu_ng_28__6.png"
+        }
+      ],
+      "rating": {
+        "rate": 4.8,
+        "review": 10
+      }
+    },
+    {
+      "id": 4,
+      "name": "OPPO Reno8 T 5G (8GB - 128GB)",
+      "listPrice": 9900000,
+      "category": "smartphone",
+      "sale": {
+        "salePercent": 0,
+        "salePrice": 0
+      },
+      "description": {
+        "status": "Mới, đầy đủ phụ kiện từ nhà sản xuất",
+        "gift": "",
+        "guarantee": "Bảo hành 12 tháng tại trung tâm bảo hành Chính hãng. 1 đổi 1 trong 30 ngày nếu có lỗi phần cứng từ nhà sản xuất."
+      },
+      "promote": [
+        "Tặng thêm dịch vụ bảo hành Vip 12 tháng 1 đổi 1",
+        "Tặng tai nghe Bluetooth Oppo Enco Buds W12 Trắng"
+      ],
+      "avatar": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/o/p/oppo-reno8t-vang1-thumb-600x600.jpg",
+      "option": [
+        {
+          "color": "Vàng",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/h/i/hinh-anh-render-cua-oppo-reno-8t-5g-153957651_1.jpg"
+        },
+        {
+          "color": "Đen",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/t/_/t_i_xu_ng_28__6.png"
+        }
+      ],
+      "rating": {
+        "rate": 4.8,
+        "review": 10
+      }
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy S23 Ultra 256GB",
+      "listPrice": 31990000,
+      "category": "smartphone",
+      "sale": {
+        "salePercent": 16,
+        "salePrice": 26990000
+      },
+      "description": {
+        "status": "Mới, đầy đủ phụ kiện từ nhà sản xuất",
+        "gift": "Máy, cáp, sách hướng dẫn, que chọc sim",
+        "guarantee": "Bảo hành 12 tháng tại trung tâm bảo hành Chính hãng. 1 đổi 1 trong 30 ngày nếu có lỗi phần cứng từ nhà sản xuất."
+      },
+      "promote": [
+        "Giảm ngay 4.000.000đ khi tham gia thu cũ đổi mới - Giá thu tốt nhất thị trường",
+        "Giảm ngay 2.000.000đ khi thanh toán qua QR ngân hàng",
+        "Giảm 30% Watch 5 bluetooth 44mm khi mua kèm S23 series (Không áp dụng cùng Khuyến mãi khác của Đồng hồ)",
+        "Ưu đãi Phòng chờ hạng thương gia"
+      ],
+      "avatar": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/2/s23-ultra-tim.png",
+      "option": [
+        {
+          "color": "Tím",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/s/2/s23-ultra-tim_1.png"
+        },
+        {
+          "color": "Trắng",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/s/2/s23-ultra-kem_1.png"
+        },
+        {
+          "color": "Đen",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/s/2/s23-ultra-den_1.png"
+        },
+        {
+          "color": "Xanh",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/s/2/s23-ultra-xanh_1.png"
+        }
+      ],
+      "rating": {
+        "rate": 4.8,
+        "review": 10
+      }
+    },
+    {
+      "id": 6,
+      "name": "Loa Bluetooth Harman Kardon Go + Play",
+      "listPrice": 6490000,
+      "category": "sound",
+      "sale": {
+        "salePercent": 8,
+        "salePrice": 5990000
+      },
+      "description": {
+        "status": "Mới, đầy đủ phụ kiện từ nhà sản xuất",
+        "gift": "Loa, Cáp sạc Micro USB, Sách hướng dẫn",
+        "guarantee": "Bảo hành chính hãng 12 tháng, 1 ĐỔI 1 trong 30 ngày đầu."
+      },
+      "promote": [
+        "Tặng thêm dịch vụ bảo hành Vip 12 tháng 1 đổi 1",
+        "Tặng tai nghe Bluetooth Oppo Enco Buds W12 Trắng"
+      ],
+      "avatar": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/f/r/frame_2_2.png",
+      "option": [
+        {
+          "color": "Đen",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/1/_/1_38_1.jpg"
+        }
+      ],
+      "rating": {
+        "rate": 5,
+        "review": 4
+      }
+    },
+    {
+      "id": 7,
+      "name": "Apple Watch Series 8 41mm GPS viền nhôm | Chính hãng VN/A",
+      "listPrice": 11990000,
+      "category": "watch",
+      "sale": {
+        "salePercent": 19,
+        "salePrice": 9690000
+      },
+      "description": {
+        "status": "",
+        "gift": "",
+        "guarantee": "1 ĐỔI 1 trong 30 ngày nếu có lỗi phần cứng nhà sản xuất. Bảo hành 12 tháng tại trung tâm bảo hành chính hãng Apple : Điện Thoại Vui ASP (Apple Authorized Service Provider)"
+      },
+      "promote": [
+        "Thu cũ lên đời - Trợ giá 1 triệu"
+      ],
+      "avatar": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/g/o/gold_4_2.jpg",
+      "option": [
+        {
+          "color": "Trắng",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/3/_/3_239_2_1.jpg"
+        },
+        {
+          "color": "Đen",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/1/_/1_267_2.jpg"
+        },
+        {
+          "color": "Đỏ",
+          "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/5/_/5_169_1.jpg"
+        }
+      ],
+      "rating": {
+        "rate": 4.2,
+        "review": 10
+      }
+    },
+    {
+      "id": 8,
+      "name": "Loa Bluetooth Marshall Stanmore 2",
+      "listPrice": 11190000,
+      "category": "sound",
+      "sale": {
+        "salePercent": 20,
+        "salePrice": 8990000
+      },
+      "description": {
+        "status": "Mới, đầy đủ phụ kiện từ nhà sản xuất",
+        "gift": "Loa, Cáp nguồn, Sách hướng dẫn",
+        "guarantee": "Bảo hành 1 đổi 1 trong 12 tháng."
+      },
+      "promote": [
+        "Tặng thêm dịch vụ bảo hành Vip 12 tháng 1 đổi 1",
+        "Tặng tai nghe Bluetooth Oppo Enco Buds W12 Trắng"
+      ],
+      "avatar": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/marshall_stanmore_2.png",
+      "option": [
+        {
+          "color": "Nâu",
+          "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/marshall_stanmore_2_6.png"
+        },
+        {
+          "color": "Đen",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/l/o/loa-khong-day-marshall-stanmore-ii-3_1.jpg"
+        },
+        {
+          "color": "Trắng",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/1/_/1_62_1.jpg"
+        }
+      ],
+      "rating": {
+        "rate": 4.3,
+        "review": 2
+      }
+    },
+    {
+      "id": 9,
+      "name": "iPad Pro 11 inch 2022 M2 Wifi 128GB I Chính hãng Apple Việt Nam",
+      "listPrice": 23990000,
+      "category": "tablet",
+      "sale": {
+        "salePercent": 13,
+        "salePrice": 20890000
+      },
+      "description": {
+        "status": "Máy mới 100%, đầy đủ phụ kiện từ nhà sản xuất. Sản phẩm có mã ZA/A (được Apple Việt Nam phân phối chính thức).",
+        "gift": "iPad Pro, Cáp sạc USB-C (1 mét), Sạc USB-C 20W",
+        "guarantee": "1 ĐỔI 1 trong 30 ngày nếu có lỗi phần cứng nhà sản xuất. Bảo hành 12 tháng tại trung tâm bảo hành chính hãng Apple : Điện Thoại Vui ASP (Apple Authorized Service Provider)"
+      },
+      "promote": [
+        "Thu cũ lên đời - Trợ giá 1 triệu",
+        "Nhập mã APPLEMOCA - giảm 600k khi mua iPhone, iPad, Mac từ 19 triệu trở lên và thanh toán qua ví Moca trên ứng dụng Grab"
+      ],
+      "avatar": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/i/p/ipad-pro-13-select-wifi-spacegray-202210-02.jpg",
+      "option": [
+        {
+          "color": "Bạc",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/b/a/bacjccc.jpg"
+        },
+        {
+          "color": "Xám",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/x/_/x_mmmms.jpg"
+        }
+      ],
+      "rating": {
+        "rate": 5,
+        "review": 5
+      }
+    },
+    {
+      "id": 10,
+      "name": "Apple Macbook Pro 13 M2 2022 8GB 256GB I Chính hãng Apple Việt Nam",
+      "listPrice": 35990000,
+      "category": "laptop",
+      "sale": {
+        "salePercent": 0,
+        "salePrice": 30290000
+      },
+      "description": {
+        "status": "Máy mới 100%, đầy đủ phụ kiện từ nhà sản xuất. Sản phẩm có mã SA/A (được Apple Việt Nam phân phối chính thức).",
+        "gift": "Máy, Sách HDSD, Dây cáp sạc USB-C (2 m), Cốc sạc USB-C 30W",
+        "guarantee": "1 ĐỔI 1 trong 30 ngày nếu có lỗi phần cứng nhà sản xuất. Bảo hành 12 tháng tại trung tâm bảo hành chính hãng Apple : Điện Thoại Vui ASP (Apple Authorized Service Provider)"
+      },
+      "promote": [
+        "Nhập mã APPLEMOCA - giảm 600k khi mua iPhone, iPad, Mac từ 19 triệu trở lên và thanh toán qua ví Moca trên ứng dụng Grab (Xem chi tiết)",
+        "Thu cũ lên đời - Trợ giá 1 triệu",
+        "Mua Office Home & Student 2021 kèm Macbook chỉ còn 2,090,000"
+      ],
+      "avatar": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook_256.png",
+      "option": [
+        {
+          "color": "Xám",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/m/b/mbp-spacegray-select-202206_2.jpg"
+        },
+        {
+          "color": "Bạc",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/m/b/mbp-silver-select-202206_2.jpg"
+        }
+      ],
+      "rating": {
+        "rate": 4.8,
+        "review": 10
+      }
+    },
+    {
+      "id": 11,
+      "name": "Apple Macbook Pro 13 M2 2022 8GB 256GB I Chính hãng Apple Việt Nam",
+      "listPrice": 35990000,
+      "category": "laptop",
+      "sale": {
+        "salePercent": 0,
+        "salePrice": 30290000
+      },
+      "description": {
+        "status": "Máy mới 100%, đầy đủ phụ kiện từ nhà sản xuất. Sản phẩm có mã SA/A (được Apple Việt Nam phân phối chính thức).",
+        "gift": "Máy, Sách HDSD, Dây cáp sạc USB-C (2 m), Cốc sạc USB-C 30W",
+        "guarantee": "1 ĐỔI 1 trong 30 ngày nếu có lỗi phần cứng nhà sản xuất. Bảo hành 12 tháng tại trung tâm bảo hành chính hãng Apple : Điện Thoại Vui ASP (Apple Authorized Service Provider)"
+      },
+      "promote": [
+        "Nhập mã APPLEMOCA - giảm 600k khi mua iPhone, iPad, Mac từ 19 triệu trở lên và thanh toán qua ví Moca trên ứng dụng Grab (Xem chi tiết)",
+        "Thu cũ lên đời - Trợ giá 1 triệu",
+        "Mua Office Home & Student 2021 kèm Macbook chỉ còn 2,090,000"
+      ],
+      "avatar": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook_256.png",
+      "option": [
+        {
+          "color": "Xám",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/m/b/mbp-spacegray-select-202206_2.jpg"
+        },
+        {
+          "color": "Bạc",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/m/b/mbp-silver-select-202206_2.jpg"
+        }
+      ],
+      "rating": {
+        "rate": 4.8,
+        "review": 10
+      }
+    },
+    {
+      "id": 12,
+      "name": "Apple Macbook Pro 13 M2 2022 8GB 256GB I Chính hãng Apple Việt Nam",
+      "listPrice": 35990000,
+      "category": "laptop",
+      "sale": {
+        "salePercent": 0,
+        "salePrice": 30290000
+      },
+      "description": {
+        "status": "Máy mới 100%, đầy đủ phụ kiện từ nhà sản xuất. Sản phẩm có mã SA/A (được Apple Việt Nam phân phối chính thức).",
+        "gift": "Máy, Sách HDSD, Dây cáp sạc USB-C (2 m), Cốc sạc USB-C 30W",
+        "guarantee": "1 ĐỔI 1 trong 30 ngày nếu có lỗi phần cứng nhà sản xuất. Bảo hành 12 tháng tại trung tâm bảo hành chính hãng Apple : Điện Thoại Vui ASP (Apple Authorized Service Provider)"
+      },
+      "promote": [
+        "Nhập mã APPLEMOCA - giảm 600k khi mua iPhone, iPad, Mac từ 19 triệu trở lên và thanh toán qua ví Moca trên ứng dụng Grab (Xem chi tiết)",
+        "Thu cũ lên đời - Trợ giá 1 triệu",
+        "Mua Office Home & Student 2021 kèm Macbook chỉ còn 2,090,000"
+      ],
+      "avatar": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook_256.png",
+      "option": [
+        {
+          "color": "Xám",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/m/b/mbp-spacegray-select-202206_2.jpg"
+        },
+        {
+          "color": "Bạc",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/m/b/mbp-silver-select-202206_2.jpg"
+        }
+      ],
+      "rating": {
+        "rate": 4.8,
+        "review": 10
+      }
+    }
+  ],
+  "shoppingCart": [
+    {
+      "id": 1,
+      "name": "Xiaomi 12T",
+      "listPrice": 12490000,
+      "category": "smartphone",
+      "sale": {
+        "salePercent": "13%",
+        "salePrice": 10890000
+      },
+      "description": {
+        "status": "Mới, đầy đủ phụ kiện từ nhà sản xuất",
+        "gift": "Xiaomi 12T, Củ sạc, Cáp sạc, Ốp lưng trong, Miếng dán màn hình",
+        "guarantee": "Bảo hành 24 tháng tại trung tâm bảo hành Chính hãng. 1 đổi 1 trong 30 ngày nếu có lỗi phần cứng từ nhà sản xuất."
+      },
+      "promote": [],
+      "avatar": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/x/i/xiaomi-12t-den_3_1.jpg",
+      "option": [
+        {
+          "color": "Đen",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/x/i/xiaomi-12t-den_3_1.jpg"
+        },
+        {
+          "color": "Bạc",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/x/i/xiaomi-12t-xam_1_1.jpg"
+        },
+        {
+          "color": "Xanh dương",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/x/i/xiaomi-12t-xanh_3.jpg"
+        }
+      ],
+      "rating": {
+        "rate": 4.9,
+        "review": 15
+      }
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy S23 Ultra 256GB",
+      "listPrice": 31990000,
+      "category": "smartphone",
+      "sale": {
+        "salePercent": 16,
+        "salePrice": 26990000
+      },
+      "description": {
+        "status": "Mới, đầy đủ phụ kiện từ nhà sản xuất",
+        "gift": "Máy, cáp, sách hướng dẫn, que chọc sim",
+        "guarantee": "Bảo hành 12 tháng tại trung tâm bảo hành Chính hãng. 1 đổi 1 trong 30 ngày nếu có lỗi phần cứng từ nhà sản xuất."
+      },
+      "promote": [
+        "Giảm ngay 4.000.000đ khi tham gia thu cũ đổi mới - Giá thu tốt nhất thị trường",
+        "Giảm ngay 2.000.000đ khi thanh toán qua QR ngân hàng",
+        "Giảm 30% Watch 5 bluetooth 44mm khi mua kèm S23 series (Không áp dụng cùng Khuyến mãi khác của Đồng hồ)",
+        "Ưu đãi Phòng chờ hạng thương gia"
+      ],
+      "avatar": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/2/s23-ultra-tim.png",
+      "option": [
+        {
+          "color": "Tím",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/s/2/s23-ultra-tim_1.png"
+        },
+        {
+          "color": "Trắng",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/s/2/s23-ultra-kem_1.png"
+        },
+        {
+          "color": "Đen",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/s/2/s23-ultra-den_1.png"
+        },
+        {
+          "color": "Xanh",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/s/2/s23-ultra-xanh_1.png"
+        }
+      ],
+      "rating": {
+        "rate": 4.8,
+        "review": 10
+      },
+      "createdAt": 1681365722985,
+      "updatedAt": 1681365722985
+    },
+    {
+      "id": 8,
+      "name": "Loa Bluetooth Marshall Stanmore 2",
+      "listPrice": 11190000,
+      "category": "sound",
+      "sale": {
+        "salePercent": 20,
+        "salePrice": 8990000
+      },
+      "description": {
+        "status": "Mới, đầy đủ phụ kiện từ nhà sản xuất",
+        "gift": "Loa, Cáp nguồn, Sách hướng dẫn",
+        "guarantee": "Bảo hành 1 đổi 1 trong 12 tháng."
+      },
+      "promote": [
+        "Tặng thêm dịch vụ bảo hành Vip 12 tháng 1 đổi 1",
+        "Tặng tai nghe Bluetooth Oppo Enco Buds W12 Trắng"
+      ],
+      "avatar": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/marshall_stanmore_2.png",
+      "option": [
+        {
+          "color": "Nâu",
+          "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/marshall_stanmore_2_6.png"
+        },
+        {
+          "color": "Đen",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/l/o/loa-khong-day-marshall-stanmore-ii-3_1.jpg"
+        },
+        {
+          "color": "Trắng",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/1/_/1_62_1.jpg"
+        }
+      ],
+      "rating": {
+        "rate": 4.3,
+        "review": 2
+      },
+      "createdAt": 1681367627361,
+      "updatedAt": 1681367627361
+    },
+    {
+      "id": 7,
+      "name": "Apple Watch Series 8 41mm GPS viền nhôm | Chính hãng VN/A",
+      "listPrice": 11990000,
+      "category": "watch",
+      "sale": {
+        "salePercent": 19,
+        "salePrice": 9690000
+      },
+      "description": {
+        "status": "",
+        "gift": "",
+        "guarantee": "1 ĐỔI 1 trong 30 ngày nếu có lỗi phần cứng nhà sản xuất. Bảo hành 12 tháng tại trung tâm bảo hành chính hãng Apple : Điện Thoại Vui ASP (Apple Authorized Service Provider)"
+      },
+      "promote": [
+        "Thu cũ lên đời - Trợ giá 1 triệu"
+      ],
+      "avatar": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/g/o/gold_4_2.jpg",
+      "option": [
+        {
+          "color": "Trắng",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/3/_/3_239_2_1.jpg"
+        },
+        {
+          "color": "Đen",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/1/_/1_267_2.jpg"
+        },
+        {
+          "color": "Đỏ",
+          "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/5/_/5_169_1.jpg"
+        }
+      ],
+      "rating": {
+        "rate": 4.2,
+        "review": 10
+      },
+      "createdAt": 1681367632504,
+      "updatedAt": 1681367632504
+    },
+    {
+      "id": 6,
+      "name": "Loa Bluetooth Harman Kardon Go + Play",
+      "listPrice": 6490000,
+      "category": "sound",
+      "sale": {
+        "salePercent": 8,
+        "salePrice": 5990000
+      },
+      "description": {
+        "status": "Mới, đầy đủ phụ kiện từ nhà sản xuất",
+        "gift": "Loa, Cáp sạc Micro USB, Sách hướng dẫn",
+        "guarantee": "Bảo hành chính hãng 12 tháng, 1 ĐỔI 1 trong 30 ngày đầu."
+      },
+      "promote": [
+        "Tặng thêm dịch vụ bảo hành Vip 12 tháng 1 đổi 1",
+        "Tặng tai nghe Bluetooth Oppo Enco Buds W12 Trắng"
+      ],
+      "avatar": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/f/r/frame_2_2.png",
+      "option": [
+        {
+          "color": "Đen",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/1/_/1_38_1.jpg"
+        }
+      ],
+      "rating": {
+        "rate": 5,
+        "review": 4
+      },
+      "createdAt": 1681367638449,
+      "updatedAt": 1681367638449
+    },
+    {
+      "id": 9,
+      "name": "iPad Pro 11 inch 2022 M2 Wifi 128GB I Chính hãng Apple Việt Nam",
+      "listPrice": 23990000,
+      "category": "tablet",
+      "sale": {
+        "salePercent": 13,
+        "salePrice": 20890000
+      },
+      "description": {
+        "status": "Máy mới 100%, đầy đủ phụ kiện từ nhà sản xuất. Sản phẩm có mã ZA/A (được Apple Việt Nam phân phối chính thức).",
+        "gift": "iPad Pro, Cáp sạc USB-C (1 mét), Sạc USB-C 20W",
+        "guarantee": "1 ĐỔI 1 trong 30 ngày nếu có lỗi phần cứng nhà sản xuất. Bảo hành 12 tháng tại trung tâm bảo hành chính hãng Apple : Điện Thoại Vui ASP (Apple Authorized Service Provider)"
+      },
+      "promote": [
+        "Thu cũ lên đời - Trợ giá 1 triệu",
+        "Nhập mã APPLEMOCA - giảm 600k khi mua iPhone, iPad, Mac từ 19 triệu trở lên và thanh toán qua ví Moca trên ứng dụng Grab"
+      ],
+      "avatar": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/i/p/ipad-pro-13-select-wifi-spacegray-202210-02.jpg",
+      "option": [
+        {
+          "color": "Bạc",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/b/a/bacjccc.jpg"
+        },
+        {
+          "color": "Xám",
+          "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/x/_/x_mmmms.jpg"
+        }
+      ],
+      "rating": {
+        "rate": 5,
+        "review": 5
+      },
+      "createdAt": 1681367665211,
+      "updatedAt": 1681367665211
+    }
+  ]
+}

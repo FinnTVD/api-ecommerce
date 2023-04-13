@@ -1,0 +1,22 @@
+{
+	"name": "api-ecommerce",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"dependencies": {
+		"json-server": "^0.17.3",
+		"query-string": "^8.1.0"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.22"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "nodemon server.js",
+		"start": "node server.js"
+	},
+	"keywords": [],
+	"type": "module",
+	"author": "",
+	"license": "ISC"
+}
